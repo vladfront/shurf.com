@@ -93,8 +93,8 @@ z-index: 999;
 .smart-basket__min-count {
     font-weight: 700;
     font-size: 15px;
-    color: #159288;
-    margin-left: 3px;
+    color: #fff;
+    margin-left: 1px;
 }
 /*<button class="smart-basket__min"><img class="smart-basket__min-icon" src="./smartbasket/img/shopping-basket-wight.svg" width="18" alt="Корзина"><span class="smart-basket__min-count">0</span></button
 -*/
